@@ -52,6 +52,3 @@
 
 </div>
 
-<p align="center">
-  Feito por Ana Lívia — @anafariass
-</p>
