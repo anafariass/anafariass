@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=8B008B"/>
 
 <div align="center" width="100%">
- <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=29&center=true&pause=1000&color=801AA7&width=435&lines=Welcome!;My+name+is+Ana+L%C3%ADvia.;Currently+studying+Analysis+and+Systems+Development+at+IFPI" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&center=true&pause=1000&color=801AA7&width=435&lines=Welcome!;My+name+is+Ana+L%C3%ADvia.;Currently+studying+Analysis+and+Systems+Development+at+IFPI" alt="Typing SVG" />
 </div>
 
 <br>
